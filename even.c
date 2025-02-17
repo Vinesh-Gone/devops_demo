@@ -2,8 +2,11 @@
 main()
 {
 int a;
-if(a%==0)
+if(a%2==0)
+{
 printf("even");
+}
 else
+{
 printf("odd");
 }
